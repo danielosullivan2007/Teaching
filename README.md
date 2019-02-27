@@ -22,6 +22,9 @@ https://automatetheboringstuff.com/
 Sentdex's Youtube channel is where I learnt a lot of my Python. Check it out:
 https://www.youtube.com/user/sentdex
 
+Who says it should be Python or R? How to integrate them both, and use R in python!
+https://sites.google.com/site/aslugsguidetopython/data-analysis/pandas
+
 Chris Albons Site is Great for Code Snippets:
 https://chrisalbon.com/
 
